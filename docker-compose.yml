@@ -1,0 +1,9 @@
+services:
+  rss-bridge:
+    image: 
+rssbridge/rss-bridge
+:
+sha-8329dc6
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai

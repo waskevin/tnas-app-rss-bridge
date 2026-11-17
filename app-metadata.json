@@ -1,0 +1,13 @@
+{
+  "name": "RSS-Bridge",
+  "source": "https://github.com/RSS-Bridge/rss-bridge",
+  "docker_image": "rssbridge/rss-bridge:sha-8329dc6",
+  "version": "sha-8329dc6",
+  "repository": "https://github.com/waskevin/tnas-app-rss-bridge",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "RSS-Bridge container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
